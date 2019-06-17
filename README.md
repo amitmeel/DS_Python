@@ -37,6 +37,13 @@ To compare algorithms, let us define a few objective measures:<br>
 <b>Number of statements executed?</b> Not a good measure, since the number of statements varies wilh the programming language as well as the style of the individual programmer. <br>
 <b>Ideal solution?</b> Let us assume that we express the running time of a given algorithm as a function of the input size n (i.e., f(n)) and compare these different functions corresponding to running times. This kind of comparison is independent of machine Lime, programming style, etc. 
 
+## Rate of Growth:
+The rate at which Lhe running time increases as a function of input is called rate of growth.In general, for a given function ignore the low order terms that are relatively insignificant (for large value of inpul size, n).<br>
+```
+  n4 + 2n2 + 10011 + 500 = n4
+ ```
+
+
 
 
  
