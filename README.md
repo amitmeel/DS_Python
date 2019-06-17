@@ -40,8 +40,14 @@ To compare algorithms, let us define a few objective measures:<br>
 ## Rate of Growth:
 The rate at which Lhe running time increases as a function of input is called rate of growth.In general, for a given function ignore the low order terms that are relatively insignificant (for large value of inpul size, n).<br>
 ```
-  n4 + 2n2 + 10011 + 500 = n4
+  n^4 + 2n^2 + 100n + 500 = n^4
  ```
+ 
+## Types of Analysis:
+To analyze the given algorithm, we need to know with which inputs the algorithm takes less time (performing well) and with which inputs the algorithm takes a long time.<br>
+* ```Worst case``` : Defines the input for which the algorithm takes a long time. Input is the one for which the algorithm runs the slowest.
+* ``` Best case```: Defines the input for which the algorithm takes the least time. Input is the one for which the algorithm runs the fastest.
+* ``` Average case```:  Provides a prediction about the runing time or the algorithm. Assumes that the input is random.
 
 
 
