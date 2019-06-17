@@ -25,11 +25,11 @@ The goal of the analysis of" algorithms is to compare algorithms (or solutions) 
 
 #### What is Running Time Analysis? 
 It is the process of determining how processing time increases as the size of the problem (input size) increases. Input size is the number of elements in the input, and depending on the problem type, the input may be of different types. The following are the common types of inputs. 
-  . Size of an array 
-  . Polynomial degree 
-  . Number of elements in a matrix 
-  . Number of bits in the binary representation of the input 
-  . Vertices and edges in a graph. 
+  * Size of an array 
+  * Polynomial degree 
+  * Number of elements in a matrix 
+  * Number of bits in the binary representation of the input 
+  * Vertices and edges in a graph. 
 
 
 
