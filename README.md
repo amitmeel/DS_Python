@@ -7,6 +7,8 @@ Data Strucutures are clasified into two types:
   2. <b>Non-Linear data structure</b>: Elements of this data structure are stored/accessed in a non-linear order. Examples: Trees and graphs etc.
 <br><br>
 
+## Algorithm:
+Step by step instructions to solve a problem.
 
 ### Abstract Data Types(ADTs):
 In general, system defined data types (premitive data types: int,float,char etc) support operations such as addition, subtraction etc because system provides the implementation for the premitive data types. But for user defined data types we need to define the operations.<br>
@@ -16,7 +18,6 @@ ADTs consists of two parts:
 
 <br><br>
 
-## Algorithm:
-Step by step instructions to solve a problem.
+
 
  
