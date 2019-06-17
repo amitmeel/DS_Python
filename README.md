@@ -30,6 +30,12 @@ It is the process of determining how processing time increases as the size of th
   * Number of elements in a matrix 
   * Number of bits in the binary representation of the input 
   * Vertices and edges in a graph. 
+  
+#### How to Compare Algorithms 
+To compare algorithms, let us define a few objective measures: 
+<b>Execution times?</b> Not a good measure as execulion times are specific lo a particular computer. 
+<b>Number of statements executed?<b> Not a good measure, since the number of statements varies wilh the programming language as well as the style of the individual programmer. 
+<b>Ideal solution?</b> Let us assume that we express the running time of a given algorithm as a function of the input size n (i.e., f(n)) and compare these different functions corresponding to running times. This kind of comparison is independent of machine Lime, programming style, etc. 
 
 
 
